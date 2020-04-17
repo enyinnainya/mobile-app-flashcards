@@ -2,8 +2,6 @@
 # Mobile-Flashcards
 Udacity React Nanodegree final project - Mobile Flashcards App using React Native
 
-![app images](./sample_screenshots/DecksListView.png) (./sample_screenshots/NewDeckView.png), etc.
-
 
 ### Project Description
 
@@ -36,5 +34,18 @@ or
 - Keep running score of each deck or history of scores
 - Edit / delete questions from card deck
 - Swipe list item to edit / delete card decks
+
+
+# Demo Screenshots
+The following screenshots shows the different views/screens of this App as tested on Android (Samsung Galaxy A30s)
+
+![app images](./sample_screenshots/DecksListView.png) 
+![app images](./sample_screenshots/NewDeckView.png)
+![app images](./sample_screenshots/DeckDetailView.png)
+![app images](./sample_screenshots/AddNewCardView.png)
+![app images](./sample_screenshots/QuizPageQuestionView.png)
+![app images](./sample_screenshots/QuizPageAnswerView.png)
+![app images](./sample_screenshots/QuizResultView.png)
+![app images](./sample_screenshots/NoCardView.png)
 
 

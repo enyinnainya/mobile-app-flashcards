@@ -2,6 +2,10 @@
 # Mobile-Flashcards
 Udacity React Nanodegree final project - Mobile Flashcards App using React Native
 
+## Author
+This app was engineered and developed by Enyinna Inya.
+- [@enyinnainya](https://github.com/enyinnainya)
+
 
 ### Project Description
 
